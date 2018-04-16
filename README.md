@@ -4,7 +4,8 @@ SeccAppli Course at EURECOM
 This course presents the main applications of secure communication me chanisms in the area of computer networks and distributed systems. The course covers network security approaches based on firewalls, cryptographic security protocol suites designed for the data exchange and network control components of Internet, wireless security protocols, and security solutions for mobile network architectures.
 Course Outline:
 
-1. Access Control                                                 
+1. Access Control  
+
  Access Control Model 
  Role Based Access Control
  PERMIS
@@ -13,7 +14,8 @@ Course Outline:
  SAML
  XACML
 
-2. Domain Control - Firewalls
+2. Domain Control 
+Firewalls
 Packet Filtering
 Application Layer Filtering
 Firewall Configurations
